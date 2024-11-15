@@ -6,5 +6,6 @@ TomHalfmoon1
 
 
 - Working on a Arduino project to capture activation and duration of the pump cycle.
+- I am hoping to learn more about Arduino and Github.
 
 
